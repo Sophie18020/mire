@@ -1,3 +1,5 @@
+#Состав команды - Пацева С.
+
 # Mire
 
 It's a nonviolent MUD. (Multi-User Dungeon)
